@@ -19,6 +19,7 @@ body{
     width: 100%;
 }
 
+input[type="email"],
 input[type="password"],
 input[type="text"]{
     display: block;
@@ -54,6 +55,7 @@ input[type="checkbox"]{
     appearance: none;
     -webkit-print-color-adjust: exact;
     color-adjust: exact;
+    border-radius: 3px;
 }
 
 
@@ -87,4 +89,11 @@ h1,h2,h3,h4,h5,h6{
 
 label{
     margin-bottom: 0.5rem;
+}
+
+#forgotPassword{
+    text-decoration: none;
+    color: #797777;
+    font-size: .9rem;
+    margin-left: 1rem;
 }

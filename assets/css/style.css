@@ -91,9 +91,22 @@ label{
     margin-bottom: 0.5rem;
 }
 
+.intro{
+    margin-bottom:1.5rem
+}
+
 #forgotPassword{
     text-decoration: none;
     color: #797777;
     font-size: .9rem;
-    margin-left: 1rem;
+    margin-left: .5rem;
+}
+
+#createAccount{
+    margin-left: 0.5rem;
+    color: #AEF600;
+}
+
+.divider h2{
+    display: none;
 }

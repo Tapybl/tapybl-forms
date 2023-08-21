@@ -58,6 +58,13 @@ input[type="checkbox"]{
     border-radius: 3px;
 }
 
+input[type="email"]:focus-visible,
+input[type="password"]:focus-visible,
+input[type="text"]:focus-visible{
+    outline:0
+}
+
+
 
 button{
     margin:1.5rem 0;

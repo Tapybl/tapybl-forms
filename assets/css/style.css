@@ -160,3 +160,11 @@ ul {
 #attributeList ul li .helpLink {
     display: none;
 }
+
+#fieldIncorrect{
+    display: block;
+    margin-bottom: 2rem;
+    background: #1a98985c;
+    border-radius: 3px;
+    padding: 0.5rem 1rem;
+}

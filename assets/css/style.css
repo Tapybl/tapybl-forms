@@ -168,3 +168,12 @@ ul {
     border-radius: 3px;
     padding: 0.5rem 1rem;
 }
+
+img[data-tenant-branding-logo="true"]{
+    margin-bottom: 2rem;
+}
+
+#signup .intro p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

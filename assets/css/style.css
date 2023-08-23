@@ -161,7 +161,7 @@ ul {
     display: none;
 }
 
-#fieldIncorrect{
+#fieldIncorrect, #requiredFieldMissing{
     display: block;
     margin-bottom: 2rem;
     background: #1a98985c;

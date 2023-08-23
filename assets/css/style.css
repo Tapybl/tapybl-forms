@@ -64,7 +64,9 @@ input[type="text"]:focus-visible {
     outline: 0
 }
 
-
+label{
+    font-weight: bold;
+}
 
 button {
     margin: 1.5rem 0;
